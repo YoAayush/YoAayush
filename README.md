@@ -15,4 +15,4 @@
 <h2 align="left">Database</h2>
 <img src="https://skills.thijs.gg/icons?i=firebase,mysql&theme=dark"/>
 <h2 align="left">Tools</h2>
-<img src="https://skills.thijs.gg/icons?i=git,github,gitlab,gitpod,figma,vscode,netlify,vercel&theme=dark"/>
+<img src="https://skills.thijs.gg/icons?i=git,github,gitlab,figma,vscode,netlify,vercel&theme=dark"/>
