@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aayush Chopra</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
-<!--
-**YoAayush/YoAayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Connect with me:</h2>
+<a href="https://www.linkedin.com/in/aayush-chopra-a142b0288/" target="_blank"><img src="https://skills.thijs.gg/icons?i=linkedin&theme=dark" /></a>
+<a href="https://github.com/YoAayush" target="_blank"><img src="https://skills.thijs.gg/icons?i=github&theme=dark" /></a>
+<a href="mailto:chopraaayush2004@gmail.com" target="_blank"><img src="https://skills.thijs.gg/icons?i=gmail&theme=dark" /></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Programming Languages</h2>
+<img src="https://skills.thijs.gg/icons?i=js,python,cpp,c&theme=dark" />
+<h2 align="left">Frontend</h2>
+<img src="https://skills.thijs.gg/icons?i=html,css,react,tailwind,materialui,styledcomponents,bootstrap&theme=dark"/>
+<h2 align="left">Backend</h2>
+<img src="https://skills.thijs.gg/icons?i=firebase,nodejs,express,php&theme=dark"/>
+<h2 align="left">Database</h2>
+<img src="https://skills.thijs.gg/icons?i=firebase,mysql&theme=dark"/>
+<h2 align="left">Tools</h2>
+<img src="https://skills.thijs.gg/icons?i=git,figma,vscode,postman,netlify,vercel&theme=dark"/>
