@@ -3,8 +3,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/aayush-chopra-a142b0288/" target="_blank"><img src="https://skills.thijs.gg/icons?i=linkedin&theme=dark" /></a>
-<a href="https://github.com/YoAayush" target="_blank"><img src="https://skills.thijs.gg/icons?i=github&theme=dark" /></a>
-<a href="mailto:chopraaayush2004@gmail.com" target="_blank"><img src="https://skills.thijs.gg/icons?i=gmail&theme=dark" /></a>
+<a href="https://github.com/YoAayush" target="_blank"><img src="https://skillicons.dev/icons?i=github)](https://skillicons.dev)" /></a>
+<a href="mailto:chopraaayush2004@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)" /></a>
 
 <h2 align="left">Programming Languages</h2>
 <img src="https://skills.thijs.gg/icons?i=js,python,cpp,c&theme=dark" />
