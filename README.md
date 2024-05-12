@@ -13,7 +13,7 @@
 <h2 align="left">Backend</h2>
 <img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb,php)](https://skillicons.dev)"/>
 <h2 align="left">Database</h2>
-<img src="https://skillicons.dev/icons?i=firebase&theme=light"/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
+<img src="https://skillicons.dev/icons?i=firebase,mysql"/>
+<!-- <img src="https://skillicons.dev/icons?i=mysql&theme=light"/> -->
 <h2 align="left">Tools</h2>
 <img src="https://skills.thijs.gg/icons?i=git,github,gitlab,figma,vscode,netlify,vercel&theme=dark"/>
