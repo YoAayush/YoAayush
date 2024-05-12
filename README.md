@@ -11,9 +11,8 @@
 <h2 align="left">Frontend</h2>
 <img src="https://skills.thijs.gg/icons?i=html,css,react,tailwind,materialui,styledcomponents,bootstrap&theme=dark"/>
 <h2 align="left">Backend</h2>
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb,php)](https://skillicons.dev)"/>
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb,php"/>
 <h2 align="left">Database</h2>
 <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
-<!-- <img src="https://skillicons.dev/icons?i=mysql&theme=light"/> -->
 <h2 align="left">Tools</h2>
 <img src="https://skills.thijs.gg/icons?i=git,github,gitlab,figma,vscode,netlify,vercel&theme=dark"/>
