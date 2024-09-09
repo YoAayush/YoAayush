@@ -28,7 +28,7 @@ Hello! 👋 I'm **Aayush Chopra**, a passionate Full Stack Web Developer. Welcom
 
 ## 📫 Get in Touch:
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/aayush-chopra-a142b0288/)
-- **Personal Website**: [Website](https://aayushchopra.me)
+<!--- - **Personal Website**: [Website](https://aayushchopra.me) --->
 - **Instagram**: [Instagram](https://www.instagram.com/aayush_chopra_10/)
 
 Thanks for visiting my profile! Have a great day! 😊
