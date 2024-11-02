@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello! 👋 I'm **Aayush Chopra**, a passionate Full Stack Web Developer. Welcome to my GitHub profile!
+### 🔭 I’m currently working on Quickgick
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
